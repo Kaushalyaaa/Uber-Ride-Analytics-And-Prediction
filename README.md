@@ -73,6 +73,6 @@ This project uses a Kaggle dataset of ~148k Uber rides (India/NCR) with fields l
 - 🧩 **Clustering**: scikit-learn (KMeans, DBSCAN)  
 - 📊 **Visualization**: matplotlib, seaborn, plotly  
 - 🖥️ **Dashboard**: Streamlit  
-- 🗂️ **Versioning**: git + (optional) DVC  
-- ✅ **Quality**: black, ruff, pytest  
+- 🗂️ **Versioning**: git  
+- ✅ **Quality**: pytest  
 - ☁️ **Google Colab** 
